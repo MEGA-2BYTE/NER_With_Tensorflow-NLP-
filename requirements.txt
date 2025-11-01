@@ -1,6 +1,7 @@
 streamlit==1.31.0
-tensorflow==2.15.0
+tensorflow==2.20.0
+pickle5
+dill
 numpy==1.26.4
 pandas
-dill
 joblib
